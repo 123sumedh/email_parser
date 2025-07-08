@@ -13,3 +13,4 @@ Key functionality includes:
 5) Download Option: Users can download the final summary report directly through a button in the Streamlit interface.
 
 This tool is ideal for automating analytics workflows involving recurring email reports, especially in finance, sales, or operations dashboards.
+![image alt](https://github.com/123sumedh/email_parser/blob/0c9150cb0fb2b4b95717c0d72a3fc39607d1ec8f/Parser%20project%20image%20output.png)
